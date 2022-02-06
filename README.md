@@ -1,12 +1,4 @@
-<img align='right' src='https://media1.tenor.com/images/5ee0cbb531b8fab27efccf073e075965/tenor.gif?itemid=4641519' width='200'>
 
-💡 Passionate about Android development, MVVM, agile methodology and Object Oriented programming.
-
-- 🔭 I am currently working as an Android Developer on [Ntt Data](https://www.nttdata.com/global/en/)
-- 📱  Android Developer
-- 💻 Future Software Engineer
-- 🌱 Programming the future
-- 💭 Constantly evolving
 
 ### 🛠 Technologies & Tools
 [![Android Badge](https://img.shields.io/badge/-Android-000?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/)](https://developer.android.com/) &nbsp;
