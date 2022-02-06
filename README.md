@@ -1,8 +1,8 @@
+### Olá eu sou o Kauã Moro! 🤙
+
+### 🛠 Tecnologias: 
 
 
-### 🛠 Technologies & Tools
-[![Android Badge](https://img.shields.io/badge/-Android-000?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/)](https://developer.android.com/) &nbsp;
-[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-000?style=flat-square&logo=Kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/) &nbsp;
 ![Java Badge](https://img.shields.io/badge/-Java-000?style=flat-square&logo=Java&logoColor=white) &nbsp;
 
 <img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean Architecture-808080?style=flat-square" /> &nbsp;
