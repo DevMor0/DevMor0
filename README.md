@@ -13,6 +13,6 @@
 
 ### 🌎 Encontre-me em outro lugar!
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DevMor0)](https://github.com/DevMor0) &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/KauaMoro)](https://linkedin.com/in/KauaMoro) &nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kaua-moro)](https://linkedin.com/in/kaua-moro) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauamoro23@gmail.com)](mailto:kauamoro@gmail.com) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/kaua_moro/)](https://www.instagram.com/kaua_moro/)
