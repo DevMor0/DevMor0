@@ -1,19 +1,17 @@
-### Olá! Eu sou o Kauã Moro! 🤙
+### 😀 Olá! Eu sou o Kauã Moro!
 
 - 💻 Cursando Ciência da Computação
+- 💭 Buscando conhecimento e evolução
 
-### Tecnologias que estudo no meu dia:
+### 🛠 Tecnologias que estudo no meu dia:
 
-<div style="display: inline_block"><br/>
-    <img alt="JAVA"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img alt="HTML5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="CSS3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="JAVA_SCRIPT"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+- [![Html Badge](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/)](https://developer.android.com/) &nbsp;
+[![Css3 Badge](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=Kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/) &nbsp;
+![Java Badge](https://img.shields.io/badge/-JAVA-000?style=flat-square&logo=Java&logoColor=white) &nbsp;
+
 
 
 ### 🌎 Encontre-me em outro lugar!
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DevMor0)](https://github.com/DevMor0) &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/KauaMoro)](https://linkedin.com/in/KauaMoro) &nbsp;
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/KauaMoro)](https://linkedin.com/in/KauaMoro) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauamoro23@gmail.com)](mailto:kauamoro@gmail.com) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/kaua_moro/)](https://www.instagram.com/kaua_moro/)
