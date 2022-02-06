@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Kauã Moro! 🤙
 
+- 💻 Cursando Ciência da Computação
 
 ### Tecnologias que estudo no meu dia:
 
