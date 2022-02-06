@@ -1,27 +1,18 @@
-### Olá eu sou o Kauã Moro! 🤙
-
-### 🛠 Tecnologias: 
+### Olá! Eu sou o Kauã Moro! 🤙
 
 
-![Java Badge](https://img.shields.io/badge/-Java-000?style=flat-square&logo=Java&logoColor=white) &nbsp;
-<div> style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+### Tecnologias que estudo no meu dia:
+
+<div style="display: inline_block"><br/>
+    <img alt="JAVA"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="HTML5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="CSS3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="JAVA_SCRIPT"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-<img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean Architecture-808080?style=flat-square" /> &nbsp;
-<img alt="SOLID" src="https://img.shields.io/badge/-SOLID-808080?style=flat-square" /> &nbsp;
-<img alt="MVVM" src="https://img.shields.io/badge/-MVVM-808080?style=flat-square" /> &nbsp;
-<img alt="Dependency injection" src="https://img.shields.io/badge/-Dependency injection-808080?style=flat-square" /> &nbsp;
-<img alt="Git" src="https://img.shields.io/badge/-Git-808080?style=flat-square" /> &nbsp;
-<img alt="Unit tests" src="https://img.shields.io/badge/-Unit tests-808080?style=flat-square" /> &nbsp;
-<img alt="Agile methodology" src="https://img.shields.io/badge/-Agile methodology-808080?style=flat-square" /> &nbsp;
-<img alt="Object Oriented" src="https://img.shields.io/badge/-Object Oriented-808080?style=flat-square" /> &nbsp;
-<img alt="RESTful" src="https://img.shields.io/badge/-RESTful-808080?style=flat-square" /> &nbsp;
 
-
-
-### 🌎 Find me elsewhere
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/olucasmoro)](https://github.com/olucasmoro) &nbsp;
+### 🌎 Encontre-me em outro lugar!
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DevMor0)](https://github.com/olucasmoro) &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/olucasmoro)](https://linkedin.com/in/olucasmoro) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olucasmoro@gmail.com)](mailto:olucasmoro@gmail.com) &nbsp;
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber)](https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber) &nbsp;
