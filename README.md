@@ -12,8 +12,7 @@
 
 
 ### 🌎 Encontre-me em outro lugar!
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DevMor0)](https://github.com/olucasmoro) &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/olucasmoro)](https://linkedin.com/in/olucasmoro) &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olucasmoro@gmail.com)](mailto:olucasmoro@gmail.com) &nbsp;
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber)](https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber) &nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/olucasmoro/)](https://www.instagram.com/olucasmoro/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DevMor0)](https://github.com/DevMor0) &nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/DevMor0)](https://linkedin.com/in/DevMor0) &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauamoro23@gmail.com)](mailto:kauamoro@gmail.com) &nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/kaua_moro/)](https://www.instagram.com/kaua_moro/)
