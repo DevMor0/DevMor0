@@ -4,6 +4,7 @@
 
 
 ![Java Badge](https://img.shields.io/badge/-Java-000?style=flat-square&logo=Java&logoColor=white) &nbsp;
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
 <img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean Architecture-808080?style=flat-square" /> &nbsp;
 <img alt="SOLID" src="https://img.shields.io/badge/-SOLID-808080?style=flat-square" /> &nbsp;
