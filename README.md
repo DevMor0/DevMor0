@@ -7,7 +7,7 @@
 
 - [![Html Badge](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/)](https://developer.android.com/) &nbsp;
 [![Css3 Badge](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=Kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/) &nbsp;
-![Java Badge](https://img.shields.io/badge/-JAVA-000?style=flat-square&logo=Java&logoColor=white) &nbsp;
+![JavaScript Badge](https://img.shields.io/badge/-JAVA-000?style=flat-square&logo=Java&logoColor=white) &nbsp;
 
 
 
